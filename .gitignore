@@ -46,3 +46,8 @@ composer.phar
 atlassian-ide-plugin.xml
 /node_modules/
 /.vscode/
+**/amd/build/*
+moodle-docker/
+local/codechecker
+local/eclass
+/lib/testing/lib.php
