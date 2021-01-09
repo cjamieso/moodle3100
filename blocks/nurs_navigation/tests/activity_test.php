@@ -41,7 +41,7 @@ class test_activity extends nurs_navigation_unit_test{
      * The setup function is used to place the DB in its initial state.
      *
      */
-    protected function setUp() {
+    protected function setUp(): void {
 
         $this->resetAfterTest(true);
 

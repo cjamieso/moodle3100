@@ -52,7 +52,7 @@ class block_skills_group_privacy_testcase extends provider_testcase {
     /**
      * Set up the database for testing.
      */
-    public function setUp() {
+    public function setUp(): void {
 
         $this->resetAfterTest(true);
         $this->create_course();

@@ -46,7 +46,7 @@ class report_activities_class_testcase extends report_analytics_testcase {
      * Setup a standard test and add the events data as well.
      *
      */
-    protected function setUp() {
+    protected function setUp(): void {
 
         parent::setUp();
         $this->add_events_data();
@@ -354,7 +354,7 @@ class report_activities_class_testcase extends report_analytics_testcase {
     /**
      * Set timezone back to default.
      */
-    protected function tearDown() {
+    protected function tearDown(): void {
         date_default_timezone_set($this->systemdefaulttimezone);
         parent::tearDown();
     }

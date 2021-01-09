@@ -63,7 +63,7 @@ class skills_group_unit_test extends advanced_testcase {
      * The setup function is used to place the DB in its initial state.
      *
      */
-    protected function setUp() {
+    protected function setUp(): void {
 
         // This needs to be here for the dummy test below.
         $this->resetAfterTest(true);

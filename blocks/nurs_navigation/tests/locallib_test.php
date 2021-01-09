@@ -33,7 +33,7 @@ class test_nursnavigationlib extends nurs_navigation_unit_test{
      * The setup function is used to place the DB in its initial state.
      *
      */
-    protected function setUp() {
+    protected function setUp(): void {
 
         $this->resetAfterTest(true);
         parent::setUp();
@@ -70,8 +70,6 @@ class test_nursnavigationlib extends nurs_navigation_unit_test{
      * This method tests get_number_of_sections().  I check both a valid
      * course ID and an invalid course ID.
      *
-     * @expectedException dml_missing_record_exception
-     *
      */
     public function test_get_number_of_sections() {
         $courseid = $this->testcourseid;
@@ -79,6 +77,7 @@ class test_nursnavigationlib extends nurs_navigation_unit_test{
         $this->assertEquals($count, 5);
 
         $courseid = 15;
+        $this->expectException(dml_missing_record_exception::class);
         $count = get_number_of_sections($courseid);
     }
 

@@ -37,7 +37,7 @@ class report_posts_class_testcase extends report_analytics_testcase {
      * Setup a standard test and add the events data as well.
      *
      */
-    protected function setUp() {
+    protected function setUp(): void {
 
         parent::setUp();
         $this->create_forums();

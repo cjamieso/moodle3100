@@ -41,7 +41,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -63,7 +63,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -85,7 +85,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -107,7 +107,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -129,7 +129,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -151,7 +151,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -173,7 +173,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -195,7 +195,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -217,7 +217,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -239,7 +239,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -261,7 +261,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -283,7 +283,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -305,7 +305,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -327,7 +327,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -349,7 +349,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -371,7 +371,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -393,7 +393,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -415,7 +415,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -437,7 +437,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -459,7 +459,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -481,7 +481,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -503,7 +503,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -525,7 +525,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -547,7 +547,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -569,7 +569,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -591,7 +591,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -613,7 +613,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -635,7 +635,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -657,7 +657,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -679,7 +679,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -701,7 +701,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -723,7 +723,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -745,7 +745,7 @@
 			<value name="timecreated">1431988486</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_restored</value>
@@ -761,21 +761,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:5:{s:4:&quot;type&quot;;s:6:&quot;course&quot;;s:6:&quot;target&quot;;i:2;s:4:&quot;mode&quot;;i:10;s:9:&quot;operation&quot;;s:7:&quot;restore&quot;;s:8:&quot;samesite&quot;;b:0;}</value>
 			<value name="timecreated">1431988489</value>
 			<value name="origin">restore</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -783,21 +783,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1431988507</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -805,21 +805,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1431988538</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -827,21 +827,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1431988664</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -849,21 +849,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432501560</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -871,13 +871,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432501583</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -893,13 +893,13 @@
 			<value name="contextinstanceid">9997</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432501602</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -915,21 +915,21 @@
 			<value name="contextinstanceid">9998</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432501643</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -937,21 +937,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432501679</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -959,21 +959,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432501750</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -981,13 +981,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432501788</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -1009,7 +1009,7 @@
 			<value name="timecreated">1432501834</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -1031,7 +1031,7 @@
 			<value name="timecreated">1432501835</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -1053,7 +1053,7 @@
 			<value name="timecreated">1432501835</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -1069,21 +1069,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432501835</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1091,21 +1091,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432501845</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1113,21 +1113,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9989</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432501904</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1135,13 +1135,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9989</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502225</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -1163,7 +1163,7 @@
 			<value name="timecreated">1432502247</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -1179,21 +1179,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9989</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502247</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1201,13 +1201,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9989</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502249</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -1229,7 +1229,7 @@
 			<value name="timecreated">1432502295</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -1245,21 +1245,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9989</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502295</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1267,21 +1267,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9989</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502306</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1289,21 +1289,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502390</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1311,13 +1311,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9990</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502407</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -1339,7 +1339,7 @@
 			<value name="timecreated">1432502434</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -1355,21 +1355,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9990</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502434</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1377,13 +1377,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9990</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502436</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -1405,7 +1405,7 @@
 			<value name="timecreated">1432502472</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -1421,13 +1421,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9990</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502472</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_deleted</value>
@@ -1443,21 +1443,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502474</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1465,21 +1465,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9990</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502481</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1487,21 +1487,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9991</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502559</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1509,13 +1509,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9991</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502607</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -1537,7 +1537,7 @@
 			<value name="timecreated">1432502637</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -1553,21 +1553,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9991</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502637</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1575,13 +1575,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9991</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502639</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -1603,7 +1603,7 @@
 			<value name="timecreated">1432502680</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -1619,21 +1619,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9991</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502680</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1641,21 +1641,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9991</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502687</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1663,13 +1663,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9991</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502722</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -1691,7 +1691,7 @@
 			<value name="timecreated">1432502741</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -1713,7 +1713,7 @@
 			<value name="timecreated">1432502780</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -1735,7 +1735,7 @@
 			<value name="timecreated">1432502781</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -1757,7 +1757,7 @@
 			<value name="timecreated">1432502781</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -1779,7 +1779,7 @@
 			<value name="timecreated">1432502781</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -1795,21 +1795,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9991</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502781</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1817,21 +1817,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9991</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502786</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1839,21 +1839,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502869</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1861,13 +1861,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502897</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -1889,7 +1889,7 @@
 			<value name="timecreated">1432502946</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -1905,21 +1905,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502946</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1927,21 +1927,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432502948</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -1949,13 +1949,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503001</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -1977,7 +1977,7 @@
 			<value name="timecreated">1432503152</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -1999,7 +1999,7 @@
 			<value name="timecreated">1432503152</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -2021,7 +2021,7 @@
 			<value name="timecreated">1432503157</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -2043,7 +2043,7 @@
 			<value name="timecreated">1432503157</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -2065,7 +2065,7 @@
 			<value name="timecreated">1432503162</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -2087,15 +2087,15 @@
 			<value name="timecreated">1432503162</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2103,13 +2103,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9992</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503165</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -2131,7 +2131,7 @@
 			<value name="timecreated">1432503175</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -2153,7 +2153,7 @@
 			<value name="timecreated">1432503175</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -2169,13 +2169,13 @@
 			<value name="contextinstanceid">9997</value>
 			<value name="userid">9992</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432503176</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -2191,13 +2191,13 @@
 			<value name="contextinstanceid">9998</value>
 			<value name="userid">9992</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432503204</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\response_submitted</value>
@@ -2219,15 +2219,15 @@
 			<value name="timecreated">1432503249</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2235,13 +2235,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9992</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503267</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -2263,7 +2263,7 @@
 			<value name="timecreated">1432503298</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -2279,21 +2279,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9992</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503298</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2301,13 +2301,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9992</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503329</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -2329,7 +2329,7 @@
 			<value name="timecreated">1432503389</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -2351,7 +2351,7 @@
 			<value name="timecreated">1432503389</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -2373,7 +2373,7 @@
 			<value name="timecreated">1432503389</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -2395,7 +2395,7 @@
 			<value name="timecreated">1432503389</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -2411,21 +2411,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9992</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503389</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2433,21 +2433,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9992</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503436</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2455,13 +2455,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9993</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503564</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -2477,21 +2477,21 @@
 			<value name="contextinstanceid">9998</value>
 			<value name="userid">9993</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432503578</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2499,13 +2499,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9992</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503600</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\response_submitted</value>
@@ -2527,15 +2527,15 @@
 			<value name="timecreated">1432503629</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2543,21 +2543,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9993</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503636</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2565,13 +2565,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9994</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503679</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -2587,13 +2587,13 @@
 			<value name="contextinstanceid">9998</value>
 			<value name="userid">9994</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432503688</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -2615,7 +2615,7 @@
 			<value name="timecreated">1432503695</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -2637,7 +2637,7 @@
 			<value name="timecreated">1432503696</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -2659,7 +2659,7 @@
 			<value name="timecreated">1432503701</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -2681,7 +2681,7 @@
 			<value name="timecreated">1432503701</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -2703,7 +2703,7 @@
 			<value name="timecreated">1432503706</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -2725,7 +2725,7 @@
 			<value name="timecreated">1432503707</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\user_enrolment_created</value>
@@ -2747,7 +2747,7 @@
 			<value name="timecreated">1432503746</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\role_assigned</value>
@@ -2769,7 +2769,7 @@
 			<value name="timecreated">1432503747</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\response_submitted</value>
@@ -2791,15 +2791,15 @@
 			<value name="timecreated">1432503759</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2807,21 +2807,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9994</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503770</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2829,21 +2829,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9995</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503821</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2851,13 +2851,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9995</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503866</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -2873,13 +2873,13 @@
 			<value name="contextinstanceid">9998</value>
 			<value name="userid">9995</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432503874</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\response_submitted</value>
@@ -2901,15 +2901,15 @@
 			<value name="timecreated">1432503931</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2917,21 +2917,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9995</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503948</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2939,21 +2939,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9996</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432503996</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -2961,13 +2961,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9996</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504045</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_created</value>
@@ -2983,13 +2983,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9996</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504092</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -3011,7 +3011,7 @@
 			<value name="timecreated">1432504092</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -3027,13 +3027,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9996</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504092</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -3055,7 +3055,7 @@
 			<value name="timecreated">1432504117</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -3077,7 +3077,7 @@
 			<value name="timecreated">1432504117</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -3099,7 +3099,7 @@
 			<value name="timecreated">1432504117</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -3121,7 +3121,7 @@
 			<value name="timecreated">1432504117</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -3137,21 +3137,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9996</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504117</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3159,21 +3159,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9996</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504127</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3181,13 +3181,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9996</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504174</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -3203,13 +3203,13 @@
 			<value name="contextinstanceid">9998</value>
 			<value name="userid">9996</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432504186</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\response_submitted</value>
@@ -3231,15 +3231,15 @@
 			<value name="timecreated">1432504231</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3247,21 +3247,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9996</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504242</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3269,21 +3269,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504270</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3291,13 +3291,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9997</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504286</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -3313,21 +3313,21 @@
 			<value name="contextinstanceid">9998</value>
 			<value name="userid">9997</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432504298</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3335,13 +3335,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504299</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\response_submitted</value>
@@ -3363,15 +3363,15 @@
 			<value name="timecreated">1432504348</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3379,13 +3379,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9997</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504366</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -3401,21 +3401,21 @@
 			<value name="contextinstanceid">9998</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432504371</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3423,13 +3423,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504397</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -3445,21 +3445,21 @@
 			<value name="contextinstanceid">9998</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432504404</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3467,13 +3467,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9998</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504476</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -3489,13 +3489,13 @@
 			<value name="contextinstanceid">9998</value>
 			<value name="userid">9998</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432504491</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\response_submitted</value>
@@ -3517,15 +3517,15 @@
 			<value name="timecreated">1432504547</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3533,21 +3533,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9998</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504555</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3555,13 +3555,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9999</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504622</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -3577,21 +3577,21 @@
 			<value name="contextinstanceid">9998</value>
 			<value name="userid">9999</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432504716</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3599,13 +3599,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504722</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\response_submitted</value>
@@ -3627,7 +3627,7 @@
 			<value name="timecreated">1432504759</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -3643,21 +3643,21 @@
 			<value name="contextinstanceid">9998</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1432504760</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3665,13 +3665,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9999</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504766</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -3693,7 +3693,7 @@
 			<value name="timecreated">1432504823</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -3709,21 +3709,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504823</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3731,21 +3731,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504851</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3753,21 +3753,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9987</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504889</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3775,13 +3775,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9987</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504906</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -3803,7 +3803,7 @@
 			<value name="timecreated">1432504920</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -3819,21 +3819,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9987</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504921</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3841,21 +3841,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9987</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504922</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3863,21 +3863,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504955</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3885,21 +3885,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432504981</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -3907,13 +3907,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9999</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505015</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -3935,7 +3935,7 @@
 			<value name="timecreated">1432505072</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -3957,7 +3957,7 @@
 			<value name="timecreated">1432505072</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -3979,7 +3979,7 @@
 			<value name="timecreated">1432505072</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -4001,7 +4001,7 @@
 			<value name="timecreated">1432505072</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -4017,21 +4017,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9999</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505072</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4039,21 +4039,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9999</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505078</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4061,21 +4061,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505138</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4083,13 +4083,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505145</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -4111,7 +4111,7 @@
 			<value name="timecreated">1432505166</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -4127,21 +4127,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505166</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4149,21 +4149,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505171</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4171,13 +4171,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505216</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -4199,7 +4199,7 @@
 			<value name="timecreated">1432505240</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -4215,21 +4215,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505240</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4237,13 +4237,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505243</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -4265,7 +4265,7 @@
 			<value name="timecreated">1432505300</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -4281,21 +4281,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505300</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4303,21 +4303,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505310</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4325,13 +4325,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505344</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -4353,7 +4353,7 @@
 			<value name="timecreated">1432505365</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -4369,21 +4369,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9987</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505365</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4391,21 +4391,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9987</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505372</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4413,21 +4413,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9986</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1432505380</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4435,21 +4435,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1433720047</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4457,21 +4457,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1433720195</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4479,21 +4479,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1433720338</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4501,21 +4501,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1433720366</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4523,21 +4523,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1433720377</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4545,21 +4545,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1433720436</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4567,21 +4567,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1433720466</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4589,21 +4589,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1433720541</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4611,13 +4611,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1433720636</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_feedback\event\course_module_viewed</value>
@@ -4633,21 +4633,21 @@
 			<value name="contextinstanceid">9998</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:1:{s:9:&quot;anonymous&quot;;s:1:&quot;2&quot;;}</value>
 			<value name="timecreated">1433720656</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4655,21 +4655,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1433720796</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4677,21 +4677,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1433720841</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4699,21 +4699,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1433720860</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4721,21 +4721,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440854957</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4743,13 +4743,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440854971</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_module_updated</value>
@@ -4765,13 +4765,13 @@
 			<value name="contextinstanceid">9997</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:3:{s:10:&quot;modulename&quot;;s:8:&quot;feedback&quot;;s:10:&quot;instanceid&quot;;s:1:&quot;1&quot;;s:4:&quot;name&quot;;s:13:&quot;Skills Survey&quot;;}</value>
 			<value name="timecreated">1440854990</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -4793,7 +4793,7 @@
 			<value name="timecreated">1440855033</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -4815,7 +4815,7 @@
 			<value name="timecreated">1440855034</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -4837,7 +4837,7 @@
 			<value name="timecreated">1440855034</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -4859,15 +4859,15 @@
 			<value name="timecreated">1440855034</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4875,21 +4875,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440855053</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4897,21 +4897,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440855056</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -4919,13 +4919,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440855108</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_created</value>
@@ -4941,13 +4941,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440855575</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -4969,7 +4969,7 @@
 			<value name="timecreated">1440855576</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -4985,13 +4985,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440855576</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -5013,7 +5013,7 @@
 			<value name="timecreated">1440855629</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -5035,7 +5035,7 @@
 			<value name="timecreated">1440855629</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -5057,7 +5057,7 @@
 			<value name="timecreated">1440855629</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -5079,7 +5079,7 @@
 			<value name="timecreated">1440855629</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -5095,21 +5095,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440855629</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5117,21 +5117,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440855638</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5139,21 +5139,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440855675</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5161,21 +5161,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440855710</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5183,13 +5183,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440855867</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -5211,7 +5211,7 @@
 			<value name="timecreated">1440855924</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -5233,7 +5233,7 @@
 			<value name="timecreated">1440855924</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -5255,7 +5255,7 @@
 			<value name="timecreated">1440855924</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -5277,15 +5277,15 @@
 			<value name="timecreated">1440855924</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5293,13 +5293,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440856012</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_created</value>
@@ -5315,13 +5315,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440856235</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -5343,7 +5343,7 @@
 			<value name="timecreated">1440856235</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -5359,13 +5359,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440856235</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -5387,7 +5387,7 @@
 			<value name="timecreated">1440856288</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -5409,7 +5409,7 @@
 			<value name="timecreated">1440856288</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -5431,7 +5431,7 @@
 			<value name="timecreated">1440856288</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -5447,21 +5447,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440856288</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5469,21 +5469,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440856300</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5491,21 +5491,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440856342</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5513,13 +5513,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9989</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440856441</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_added</value>
@@ -5541,7 +5541,7 @@
 			<value name="timecreated">1440856861</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -5557,21 +5557,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9989</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440856861</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5579,13 +5579,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9989</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440856878</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\group_member_removed</value>
@@ -5607,7 +5607,7 @@
 			<value name="timecreated">1440856938</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\mod_resource\event\course_module_viewed</value>
@@ -5623,21 +5623,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9989</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440856939</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5645,21 +5645,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9989</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1440856940</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5667,21 +5667,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444078490</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5689,21 +5689,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444229048</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5711,13 +5711,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444343125</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_updated</value>
@@ -5733,13 +5733,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:2:{s:9:&quot;shortname&quot;;s:9:&quot;FDBK Test&quot;;s:8:&quot;fullname&quot;;s:13:&quot;Feedback Test&quot;;}</value>
 			<value name="timecreated">1444343246</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_updated</value>
@@ -5755,21 +5755,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:2:{s:9:&quot;shortname&quot;;s:9:&quot;FDBK Test&quot;;s:8:&quot;fullname&quot;;s:13:&quot;Feedback Test&quot;;}</value>
 			<value name="timecreated">1444343248</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5777,21 +5777,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444343249</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5799,21 +5799,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444343250</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5821,21 +5821,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9988</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444343608</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5843,13 +5843,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444343858</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_updated</value>
@@ -5865,21 +5865,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">a:2:{s:9:&quot;shortname&quot;;s:9:&quot;FDBK Test&quot;;s:8:&quot;fullname&quot;;s:13:&quot;Feedback Test&quot;;}</value>
 			<value name="timecreated">1444344004</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5887,21 +5887,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444344006</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5909,21 +5909,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444485700</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5931,21 +5931,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444486291</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5953,21 +5953,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444791175</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5975,21 +5975,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444871361</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -5997,21 +5997,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444875174</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -6019,21 +6019,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444956021</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -6041,21 +6041,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1444963733</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -6063,21 +6063,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1445190972</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -6085,21 +6085,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1445307095</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -6107,21 +6107,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1445307114</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -6129,21 +6129,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1445462765</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -6151,21 +6151,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1445621427</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -6173,21 +6173,21 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1445791888</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 		<row>
 			<value name="eventname">\core\event\course_viewed</value>
 			<value name="component">core</value>
 			<value name="action">viewed</value>
 			<value name="target">course</value>
-			<null />
-			<null />
+			<value name="objecttable"></value>
+			<value name="objectid"></value>
 			<value name="crud">r</value>
 			<value name="edulevel">2</value>
 			<value name="contextid">74</value>
@@ -6195,13 +6195,13 @@
 			<value name="contextinstanceid">9999</value>
 			<value name="userid">9985</value>
 			<value name="courseid">9999</value>
-			<null />
+			<value name="relateduserid"></value>
 			<value name="anonymous">0</value>
 			<value name="other">N;</value>
 			<value name="timecreated">1445998449</value>
 			<value name="origin">web</value>
 			<value name="ip">10.0.2.2</value>
-			<null />
+			<value name="realuserid"></value>
 		</row>
 	</table>
 </dataset>

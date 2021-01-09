@@ -67,7 +67,7 @@ class report_analytics_testcase extends \advanced_testcase {
      * The setup function is used to place the DB in its initial state.
      *
      */
-    protected function setUp() {
+    protected function setUp(): void {
 
         // This needs to be here for the dummy test below.
         $this->resetAfterTest(true);
@@ -323,8 +323,9 @@ class report_analytics_testcase extends \advanced_testcase {
      */
     protected function add_events_data() {
 
-        $dataset = $this->createXMLDataSet(__DIR__ . '/../tests/fixtures/events_data.xml');
-        $this->loadDataSet($dataset);
+        $file = __DIR__ . '/../tests/fixtures/events_data.xml';
+        $dataset = $this->dataset_from_files(array($file));
+        $dataset->to_database();
         $this->switch_userids();
         $this->switch_courseids();
         $this->switch_cmids();

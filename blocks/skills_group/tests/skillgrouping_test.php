@@ -35,7 +35,7 @@ class test_skillsgrouping extends skills_group_unit_test {
     /**
      * Some additional setup is performed for this class only.
      */
-    protected function setUp() {
+    protected function setUp(): void {
 
         parent::setUp();
 
