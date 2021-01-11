@@ -48,17 +48,17 @@ class report_users_class_testcase extends report_analytics_testcase {
         // Test 1: retrieve all user data.
         $ru = new report_users($this->courseid, $filters);
         list($points, $eventrange, $graderange) = $ru->get_user_data();
-        $expectedeventrange = array('min' => 4, 'max' => 32);
+        $expectedeventrange = array('min' => 4, 'max' => 15);
         $expectedgraderange = array('min' => 2, 'max' => 16);
         $this->assertEquals($expectedeventrange, $eventrange);
         $this->assertEquals($expectedgraderange, $graderange);
         $expectedpoints = array(
-            array('grade' => 5, 'actions' => 22),
+            array('grade' => 5, 'actions' => 5),
             array('grade' => 6, 'actions' => 8),
-            array('grade' => 7, 'actions' => 32),
+            array('grade' => 7, 'actions' => 14),
             array('grade' => 2, 'actions' => 15),
             array('grade' => 3, 'actions' => 7),
-            array('grade' => 4, 'actions' => 15),
+            array('grade' => 4, 'actions' => 13),
             array('grade' => 8, 'actions' => 15),
             array('grade' => 9, 'actions' => 4),
             array('grade' => 10, 'actions' => 4),
@@ -83,7 +83,7 @@ class report_users_class_testcase extends report_analytics_testcase {
         $this->assertEquals($expectedeventrange, $eventrange);
         $this->assertEquals($expectedgraderange, $graderange);
         $this->assertEquals(5, $points[0]['grade']);
-        $this->assertEquals(22, $points[0]['actions']);
+        $this->assertEquals(5, $points[0]['actions']);
     }
 
 }

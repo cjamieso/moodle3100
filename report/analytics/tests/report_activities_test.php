@@ -73,8 +73,8 @@ class report_activities_class_testcase extends report_analytics_testcase {
 
         // Test 1: no filters.
         $actual = $ra->get_events_by_activity();
-        $expected = array(array('label' => 'All feedbacks', $readstr => 15, $writestr => 8, 'type' => $ac),
-            array('label' => 'All files', $readstr => 26, $writestr => 0, 'type' => $ac));
+        $expected = array(array('label' => 'All feedbacks', $readstr => 12, $writestr => 8, 'type' => $ac),
+            array('label' => 'All files', $readstr => 18, $writestr => 0, 'type' => $ac));
         $this->check_for_results($expected, $actual);
 
         // Test 2: activity filter.
@@ -82,11 +82,11 @@ class report_activities_class_testcase extends report_analytics_testcase {
         $filters->activities = $activities;
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_events_by_activity();
-        $expected = array(array('label' => 'All feedbacks', $readstr => 15, $writestr => 8, 'type' => $ac),
-            array('label' => 'System', $readstr => 120, $writestr => 112, 'type' => $ac),
-            array('label' => get_section_name($this->courseid, 1), $readstr => 15, $writestr => 9, 'type' => $s),
-            array('label' => $this->activities[0]->name, $readstr => 2, $writestr => 1, 'type' => $a),
-            array('label' => $this->activities[1]->name, $readstr => 13, $writestr => 8, 'type' => $a));
+        $expected = array(array('label' => 'All feedbacks', $readstr => 12, $writestr => 8, 'type' => $ac),
+            array('label' => 'System', $readstr => 58, $writestr => 36, 'type' => $ac),
+            array('label' => get_section_name($this->courseid, 1), $readstr => 12, $writestr => 8, 'type' => $s),
+            array('label' => $this->activities[0]->name, $readstr => 2, $writestr => 0, 'type' => $a),
+            array('label' => $this->activities[1]->name, $readstr => 10, $writestr => 8, 'type' => $a));
         $this->check_for_results($expected, $actual);
 
         // Test 3: user filter.
@@ -96,7 +96,7 @@ class report_activities_class_testcase extends report_analytics_testcase {
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_events_by_activity();
         $expected = array(array('label' => 'All feedbacks', $readstr => 4, $writestr => 3, 'type' => $ac),
-            array('label' => 'All files', $readstr => 14, $writestr => 0, 'type' => $ac));
+            array('label' => 'All files', $readstr => 7, $writestr => 0, 'type' => $ac));
         $this->check_for_results($expected, $actual);
 
         // Test 4: date filter.
@@ -108,8 +108,8 @@ class report_activities_class_testcase extends report_analytics_testcase {
         $filters->date = $date;
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_events_by_activity();
-        $expected = array(array('label' => 'All feedbacks', $readstr => 15, $writestr => 8, 'type' => $ac),
-            array('label' => 'All files', $readstr => 20, $writestr => 0, 'type' => $ac));
+        $expected = array(array('label' => 'All feedbacks', $readstr => 12, $writestr => 8, 'type' => $ac),
+            array('label' => 'All files', $readstr => 13, $writestr => 0, 'type' => $ac));
         $this->check_for_results($expected, $actual);
 
         // Test 5: all three filters.
@@ -119,7 +119,7 @@ class report_activities_class_testcase extends report_analytics_testcase {
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_events_by_activity();
         $expected = array(array('label' => 'All feedbacks', $readstr => 4, $writestr => 3, 'type' => $ac),
-            array('label' => 'System', $readstr => 30, $writestr => 15, 'type' => $ac),
+            array('label' => 'System', $readstr => 19, $writestr => 8, 'type' => $ac),
             array('label' => get_section_name($this->courseid, 1), $readstr => 4, $writestr => 3, 'type' => $s),
             array('label' => $this->activities[0]->name, $readstr => 1, $writestr => 0, 'type' => $a),
             array('label' => $this->activities[1]->name, $readstr => 3, $writestr => 3, 'type' => $a));
@@ -130,7 +130,7 @@ class report_activities_class_testcase extends report_analytics_testcase {
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_events_by_activity();
         $expected = array(array('label' => 'All feedbacks', $readstr => 3, $writestr => 3, 'type' => $ac),
-            array('label' => 'System', $readstr => 6, $writestr => 4, 'type' => $ac),
+            array('label' => 'System', $readstr => 6, $writestr => 3, 'type' => $ac),
             array('label' => get_section_name($this->courseid, 1), $readstr => 3, $writestr => 3, 'type' => $s),
             array('label' => $this->activities[0]->name, $readstr => 1, $writestr => 0, 'type' => $a),
             array('label' => $this->activities[1]->name, $readstr => 3, $writestr => 3, 'type' => $a));
@@ -216,7 +216,7 @@ class report_activities_class_testcase extends report_analytics_testcase {
         $filters->students = 'g' . $this->groups[0]->id;
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_monthly_user_activity_data();
-        $expected = array("2015-05-17 13:00" => array($filestr => 8), "2015-08-16 13:00" => array($filestr => 4));
+        $expected = array("2015-05-17 13:00" => array($filestr => 2), "2015-08-16 13:00" => array($filestr => 3));
         $this->check_timeline_results($expected, $actual);
 
         // Test 2: activity filter.
@@ -224,7 +224,7 @@ class report_activities_class_testcase extends report_analytics_testcase {
         $filters->activities = $activities;
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_monthly_user_activity_data();
-        $expected = array("2015-05-17 13:00" => array($corestr => 31), "2015-08-16 13:00" => array($corestr => 18),
+        $expected = array("2015-05-17 13:00" => array($corestr => 13), "2015-08-16 13:00" => array($corestr => 8),
             "2015-10-01 01:00" => array($corestr => 1));
         $this->check_timeline_results($expected, $actual);
 
@@ -233,13 +233,13 @@ class report_activities_class_testcase extends report_analytics_testcase {
         $filters->activities = $defaultactivities;
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_monthly_user_activity_data();
-        $expected = array("2015-05-17 13:00" => array($corestr => 21, $filestr => 8),
-            "2015-08-16 13:00" => array($corestr => 7, $filestr => 4), "2015-10-01 01:00" => array($corestr => 1));
+        $expected = array("2015-05-17 13:00" => array($corestr => 10, $filestr => 2),
+            "2015-08-16 13:00" => array($corestr => 3, $filestr => 3), "2015-10-01 01:00" => array($corestr => 1));
         $this->check_timeline_results($expected, $actual);
         $filters->action = 'w';
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_monthly_user_activity_data();
-        $expected = array("2015-05-17 13:00" => array($corestr => 10), "2015-08-16 13:00" => array($corestr => 11));
+        $expected = array("2015-05-17 13:00" => array($corestr => 3), "2015-08-16 13:00" => array($corestr => 5));
         $this->check_timeline_results($expected, $actual);
         $filters->action = 'a';
 
@@ -250,14 +250,14 @@ class report_activities_class_testcase extends report_analytics_testcase {
         $filters->date = $date;
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_monthly_user_activity_data();
-        $expected = array("2015-05-23 12:00" => array($corestr => 29, $filestr => 8));
+        $expected = array("2015-05-23 12:00" => array($corestr => 13, $filestr => 2));
         $this->check_timeline_results($expected, $actual);
 
         // Test 5: all three filters.
         $filters->activities = $activities;
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_monthly_user_activity_data();
-        $expected = array("2015-05-23 12:00" => array($corestr => 29));
+        $expected = array("2015-05-23 12:00" => array($corestr => 13));
         $this->check_timeline_results($expected, $actual);
 
         // Test 6: unique entries only.
@@ -322,11 +322,11 @@ class report_activities_class_testcase extends report_analytics_testcase {
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_events_by_activity();
         // Note: averages do not include admin user, only student values.
-        $expected = array(array('label' => 'All feedbacks', $readstr => 15, $writestr => 8,
+        $expected = array(array('label' => 'All feedbacks', $readstr => 12, $writestr => 8,
                 $averageread => 9 / self::NUMBER_OF_USERS, $averagewrite => 8 / self::NUMBER_OF_USERS, 'type' => $ac),
             array('label' => 'System', $readstr => 120, $writestr => 112, $averageread => 70 / self::NUMBER_OF_USERS,
                 $averagewrite => 48 / self::NUMBER_OF_USERS, 'type' => $ac),
-            array('label' => 'All files', $readstr => 26, $writestr => 0, $averageread => 26 / self::NUMBER_OF_USERS,
+            array('label' => 'All files', $readstr => 18, $writestr => 0, $averageread => 18 / self::NUMBER_OF_USERS,
                 $averagewrite => 0 / self::NUMBER_OF_USERS, 'type' => $ac));
         $this->check_for_results($expected, $actual);
 
@@ -334,20 +334,20 @@ class report_activities_class_testcase extends report_analytics_testcase {
         $filters->average = averagefilter::TOP15;
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_events_by_activity();
-        $expected = array(array('label' => 'All feedbacks', $readstr => 15, $writestr => 8, $averageread => 0.5,
+        $expected = array(array('label' => 'All feedbacks', $readstr => 12, $writestr => 8, $averageread => 0.5,
                 $averagewrite => 0.5, 'type' => $ac),
             array('label' => 'System', $readstr => 120, $writestr => 112, $averageread => 2, $averagewrite => 2, 'type' => $ac),
-            array('label' => 'All files', $readstr => 26, $writestr => 0, $averageread => 0.5, $averagewrite => 0, 'type' => $ac));
+            array('label' => 'All files', $readstr => 18, $writestr => 0, $averageread => 0.5, $averagewrite => 0, 'type' => $ac));
         $this->check_for_results($expected, $actual);
 
         // Test 3: bottom 15% of class (data for users 3 and 4).
         $filters->average = averagefilter::BOTTOM15;
         $ra = new report_activities($this->courseid, $filters);
         $actual = $ra->get_events_by_activity();
-        $expected = array(array('label' => 'All feedbacks', $readstr => 15, $writestr => 8, $averageread => 0, $averagewrite => 0,
+        $expected = array(array('label' => 'All feedbacks', $readstr => 12, $writestr => 8, $averageread => 0, $averagewrite => 0,
                 'type' => $ac),
             array('label' => 'System', $readstr => 120, $writestr => 112, $averageread => 5, $averagewrite => 3, 'type' => $ac),
-            array('label' => 'All files', $readstr => 26, $writestr => 0, $averageread => 3, $averagewrite => 0, 'type' => $ac));
+            array('label' => 'All files', $readstr => 18, $writestr => 0, $averageread => 3, $averagewrite => 0, 'type' => $ac));
         $this->check_for_results($expected, $actual);
     }
 

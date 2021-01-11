@@ -93,9 +93,9 @@ class generate_results_class_testcase extends report_analytics_testcase {
 
         // Results: list of users correctly returned + timestamp updated.
         $this->assertGreaterThan($now, $record->get_results_time());
-        $expected1 = $this->create_userids_from_keys(array(0, 2, 6, 10, 13));
+        $expected1 = $this->create_userids_from_keys(array(2, 6, 10, 13));
         $this->verify_users_array($expected1, $actual[0]);
-        $expected2 = $this->create_userids_from_keys(array(0, 3, 5, 10));
+        $expected2 = $this->create_userids_from_keys(array(2, 3, 5, 10));
         $this->verify_users_array($expected2, $actual[1]);
     }
 

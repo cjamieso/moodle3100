@@ -73,7 +73,7 @@ class report_conditions_class_testcase extends report_analytics_testcase {
             filter::LESS_THAN, 25));
         $rc = new report_conditions($this->courseid, $filters);
         $actual = $rc->get_users_by_condition();
-        $expected = $this->create_userids_from_keys(array(0, 3, 5, 10));
+        $expected = $this->create_userids_from_keys(array(2, 3, 5, 10));
         $this->verify_users_array($expected, $actual);
 
         // Test 5: grade + activity condition.
@@ -81,7 +81,7 @@ class report_conditions_class_testcase extends report_analytics_testcase {
             $this->create_criterion('action', array('cmid' => 'core', 'actionid' => 'a'), filter::GREATER_THAN, 6));
         $rc = new report_conditions($this->courseid, $filters);
         $actual = $rc->get_users_by_condition();
-        $expected = $this->create_userids_from_keys(array(0, 2, 6, 10, 13));
+        $expected = $this->create_userids_from_keys(array(2, 6, 10, 13));
         $this->verify_users_array($expected, $actual);
     }
 
