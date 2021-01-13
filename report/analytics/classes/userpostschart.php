@@ -174,7 +174,7 @@ class userpostschart extends chart{
         $chartname = get_string($classname . 'name', 'report_analytics');
         $columns = $this->get_columns();
         $posts = $this->flatten_posts($postlist);
-        download_as_dataformat(trim($chartname), 'excel', $columns, $posts);
+        \core\dataformat::download_data(trim($chartname), 'excel', $columns, $posts);
     }
 
     /**

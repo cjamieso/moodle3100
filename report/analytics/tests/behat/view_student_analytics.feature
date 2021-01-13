@@ -41,41 +41,56 @@ Feature: View analytics as a student
     And I follow "Test Page 1"
     And I am on "Course 1" course homepage
     And I follow "Test Page 2"
-
-  @javascript
-  Scenario: View analytics in student analytics reports
-    When I follow "Profile" in the user menu
+    And I follow "Profile" in the user menu
     And I follow "Analytics (Beta)"
     And I set the following fields to these values:
       | coursefilter | Course 1 |
-    And I add a "Content engagement" graph
+
+  @javascript
+  Scenario: View content engagement on student analytics reports
+    When I add a "Content engagement" graph
     And I press apply filter on "activitychart"
     Then the following grouped bars exist:
       | label | Interactions | Views |
       | All pages | 0 | 2 |
     And graph title should be "Displaying results for: Test Student1"
+
+  @javascript
+  Scenario: View engagement over time on student analytics reports
     And I add a "Engagement over time" graph
     And I press apply filter on "activitytimelinechart"
     Then the following series lines exist:
       | label | events |
       | All pages | 2 |
     And graph title should be "Displaying results for: Test Student1"
+
+  @javascript
+  Scenario: View forum engagement on student analytics reports
     When I add a "Forum engagement" graph
     And I press apply filter on "forumchart"
     Then the following grouped bars exist:
       | label | Discussion viewed | Post created | Discussion created |
       | Test forum name | 1 | 0 | 1 |
+
+  @javascript
+  Scenario: View forumn engagement over time on student analytics reports
     When I add a "Forum engagement over time" graph
     And I press apply filter on "forumtimelinechart"
     Then the following series lines exist:
       | label | events |
       | Test forum name | 1 |
+
+  @javascript
+  Scenario: View forum posts on student analytics reports
     When I add a "Forum posts by user(s)" graph
     And I press apply filter on "userpostschart"
     Then I should see "This is the body"
+
+  @javascript
+  Scenario: View grades vs. actions on student analytics reports
     When I add a "Grades vs. Actions" graph
     And I press apply filter on "gradechart"
     Then the following nodes exist:
       | name | Grade | Actions |
-      | Test Student1 | 0 | 16 |
+      | Test Student1 | 0 | 11 |
 

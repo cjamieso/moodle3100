@@ -119,10 +119,10 @@ Feature: Edit a group
     And I log in as "student1"
     And I am on "Course 1" course homepage
     And I click on "Create/Edit a group" "link"
-    And I click on "//span[@role='listitem' and contains(., 'Test Student2')]" "xpath_element"
+    And I click on "//span[@role='option' and contains(., 'Test Student2')]" "xpath_element"
     And I press "Save changes"
     And I wait until the page is ready
-    And I click on "//span[@role='listitem' and contains(., 'Test Student3')]" "xpath_element"
+    And I click on "//span[@role='option' and contains(., 'Test Student3')]" "xpath_element"
     And I press "Save changes"
     And I wait until the page is ready
     And "student2" should not be in group "Team Awesome"

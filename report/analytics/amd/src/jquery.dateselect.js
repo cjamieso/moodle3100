@@ -59,8 +59,10 @@ define(['jquery'], function($) {
 
             var image = this.$element.detach();
             image.css('display', 'inline-block');
-            var calendar = this.options.datefilter.node.find('.visibleifjs').first();
+            var calendar = this.options.datefilter.node.find('a[id$="datefrom_calendar"]').first();
             calendar.before(image);
+            this.options.datefilter.node.find('a[id$="datefrom_calendar"]').hide();
+            this.options.datefilter.node.find('a[id$="dateto_calendar"]').hide();
         },
 
         /**

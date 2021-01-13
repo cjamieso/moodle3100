@@ -72,7 +72,7 @@ class activitychart extends chart{
         $classname = (new \ReflectionClass($this))->getShortName();
         $chartname = get_string($classname . 'name', 'report_analytics');
         $columns = $this->get_columns($data[0]);
-        download_as_dataformat(trim($chartname), 'excel', $columns, $data, array($this, 'format_export_data'));
+        \core\dataformat::download_data(trim($chartname), 'excel', $columns, $data, array($this, 'format_export_data'));
     }
 
     /**

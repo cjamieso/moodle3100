@@ -85,7 +85,7 @@ class completionsearchchart extends chart{
 
         $users = $this->ajax_get_data($filters);
         $columns = array('name' => get_string('name'), 'email' => get_string('email', 'report_analytics'));
-        download_as_dataformat('email', 'csv', $columns, $users, array($this, 'format_export_data'));
+        \core\dataformat::download_data('email', 'csv', $columns, $users, array($this, 'format_export_data'));
     }
 
     /**

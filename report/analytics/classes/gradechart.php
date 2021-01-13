@@ -71,7 +71,7 @@ class gradechart extends chart{
         $classname = (new \ReflectionClass($this))->getShortName();
         $chartname = get_string($classname . 'name', 'report_analytics');
         $columns = $this->get_columns($userpoints[0]);
-        download_as_dataformat(trim($chartname), 'excel', $columns, $userpoints);
+        \core\dataformat::download_data(trim($chartname), 'excel', $columns, $userpoints);
     }
 
     /**
