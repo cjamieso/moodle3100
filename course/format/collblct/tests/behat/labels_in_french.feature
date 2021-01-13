@@ -40,5 +40,5 @@ Feature: View collapsed labels in other languages
     And I set the following fields to these values:
       | Force language | fr |
     And I press "Save and display"
-    And I click on "#toggle-1" "css_element"
+    And I click on "#toggles-all-opened" "css_element"
     Then "#acc1 h7" "css_element" should be visible

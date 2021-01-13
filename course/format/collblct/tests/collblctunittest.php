@@ -50,7 +50,7 @@ class collblct_unit_test extends advanced_testcase{
      * The setup function is used to place the DB in its initial state.
      *
      */
-    protected function setUp() {
+    protected function setUp(): void {
         global $DB,
         $CFG;
 

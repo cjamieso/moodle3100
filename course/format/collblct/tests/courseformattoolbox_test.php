@@ -32,7 +32,7 @@ defined('MOODLE_INTERNAL') || die();
  */
 class format_collblct_courseformattoolbox_testcase extends advanced_testcase {
 
-    protected function setUp() {
+    protected function setUp(): void {
         $this->resetAfterTest(true);
 
         set_config('theme', 'boost');

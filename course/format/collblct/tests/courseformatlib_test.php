@@ -35,7 +35,7 @@ class format_collblct_courseformatlib_testcase extends advanced_testcase {
     protected $course;
     protected $courseformat;
 
-    protected function setUp() {
+    protected function setUp(): void {
         $this->resetAfterTest(true);
 
         set_config('theme', 'boost');
